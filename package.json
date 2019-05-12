@@ -56,7 +56,7 @@
     "test/"
   ],
   "dependencies": {
-    "dashjs": "2.9.3",
+    "dashjs": "github:dovelive/dash.js#fix/pssh_generation_error",
     "global": "^4.3.2",
     "video.js": "^5.18.0 || ^6 || ^7"
   },
